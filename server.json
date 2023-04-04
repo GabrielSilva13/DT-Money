@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de um freela",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-17T18:35:09.745Z"
+    },
+    {
+      "id": 2,
+      "description": "Doritos",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 18,
+      "createdAt": "2023-01-17T18:40:09.745Z"
+    },
+    {
+      "id": 3,
+      "description": "Freela da NOAR",
+      "type": "income",
+      "category": "Trabalho",
+      "price": 1000,
+      "createdAt": "2023-01-23T18:40:09.745Z"
+    },
+    {
+      "id": 4,
+      "description": "Pringles",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 15,
+      "createdAt": "2023-01-24T18:40:09.745Z"
+    },
+    {
+      "description": "Comer o yuri",
+      "type": "outcome",
+      "category": "Alimento",
+      "price": 32,
+      "createdAt": "2023-01-26T18:52:56.494Z",
+      "id": 5
+    },
+    {
+      "description": "Teste",
+      "type": "outcome",
+      "category": "Teste",
+      "price": 32,
+      "createdAt": "2023-01-27T01:27:17.260Z",
+      "id": 6
+    },
+    {
+      "description": "ASDDDDASDASDASDASDADSDASSADA",
+      "type": "outcome",
+      "category": "Teste",
+      "price": 32,
+      "createdAt": "2023-02-14T18:12:19.075Z",
+      "id": 7
+    },
+    {
+      "description": "Teste",
+      "type": "outcome",
+      "category": "Teste",
+      "price": 32,
+      "createdAt": "2023-02-14T18:13:49.070Z",
+      "id": 8
+    },
+    {
+      "description": "Teste",
+      "type": "income",
+      "category": "Teste",
+      "price": 32,
+      "createdAt": "2023-02-14T18:15:31.291Z",
+      "id": 9
+    },
+    {
+      "description": "33333",
+      "type": "outcome",
+      "category": "333",
+      "price": 33,
+      "createdAt": "2023-02-15T18:56:41.933Z",
+      "id": 10
+    },
+    {
+      "description": "dasd",
+      "type": "income",
+      "category": "Teste",
+      "price": 2,
+      "createdAt": "2023-02-15T18:57:03.074Z",
+      "id": 11
+    }
+  ]
+}
